@@ -1,6 +1,7 @@
 using TMPro;
 using UnityEngine;
 
+[RequireComponent(typeof(TextMeshProUGUI))]
 public class TextBar : Bar
 {
     [SerializeField] private string _description = "Text bar:";
