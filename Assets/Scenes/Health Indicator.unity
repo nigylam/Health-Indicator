@@ -257,8 +257,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 637291fc3b80ed94da632069b2085ad1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _damage: 20
-  _health: {fileID: 278479931}
+  Value: 10
+  Health: {fileID: 278479931}
 --- !u!1 &67575263
 GameObject:
   m_ObjectHideFlags: 0
@@ -1832,8 +1832,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b136dfab31840f46bc835158c341850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _heal: 10
-  _health: {fileID: 278479931}
+  Value: 10
+  Health: {fileID: 278479931}
 --- !u!1 &1791833481
 GameObject:
   m_ObjectHideFlags: 0

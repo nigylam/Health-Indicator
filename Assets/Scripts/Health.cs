@@ -42,7 +42,7 @@ public class Health : MonoBehaviour
     }
         
 
-    public bool CanIncrease(int amount)
+    public bool TryIncrease(int amount)
     {
         if (Current < Max)
         {
